@@ -14,3 +14,7 @@ git init | iniciar repositorio vacio
 rm -r | forzar una eliminacion
 vim | editor
 git status | estado del repositorio
+git add | agregar
+git commit -m | primer guardado
+git push | subir a la nube
+git pull | bajar de la nube
