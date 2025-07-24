@@ -11,3 +11,6 @@ touch | crear archivos
 mv | cambiar nombre
 rm | eliminar
 git init | iniciar repositorio vacio
+rm -r | forzar una eliminacion
+vim | editor
+git status | estado del repositorio
