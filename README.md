@@ -1,9 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Alejandro Granados Suarez 
+Id.:  000410426
 ---
+En este repositorio encontraras informacion acerca de los conceptos claves para poder usar la consola de Git y como conectarse con github.
+
+
+
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
