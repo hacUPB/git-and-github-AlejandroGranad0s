@@ -10,6 +10,17 @@ En este repositorio encontraras informacion acerca de los conceptos claves para 
 para poder clonar un repositorio debes iniciar sesion en tu dispositivo y buscar el link (https) del repositorio que deseas clonar. se usa el comando "git clone (https...)" y el repositorio se baja de manera local.
 para poder ejecutar el proyecto debes tener acceso a la ediccion ya que sin esto cualquiera podria editarlo y al tener tantas copias diferente, genera un error para el codigo.
 
+# si necesitan mas informacion del tema pueden mirar
+
+|links | imagenes|
+|------|---------|
+
+[link uso de consola](./docs/uso_consola.md)|
+
+[link repositorio remoto](./docs/respositorio_remoto.md)|
+
+[link repositorio local](./docs/repositorio_local.md)|
+
 
 
 
