@@ -23,11 +23,10 @@ para poder ejecutar el proyecto debes tener acceso a la ediccion ya que sin esto
 
 |imagenes|
 |--------|
-| ![texto](./images/Captura%20de%20pantalla%202025-07-24%20203603.png)
+|![texto](./images/Captura%20de%20pantalla%202025-07-24%20203603.png)
 |![texto](./images/Captura%20de%20pantalla%202025-07-24%20203618.png)
 
-
-
+# Muchas Gracias
 
 
 # Evaluación
