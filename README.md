@@ -12,15 +12,19 @@ para poder ejecutar el proyecto debes tener acceso a la ediccion ya que sin esto
 
 # si necesitan mas informacion del tema pueden mirar
 
-|links | imagenes|
-|------|---------|
+|links |
+|------|
 
-[link uso de consola](./docs/uso_consola.md)|
+[link uso de consola](./docs/uso_consola.md)
 
-[link repositorio remoto](./docs/respositorio_remoto.md)|
+[link repositorio remoto](./docs/respositorio_remoto.md)
 
 [link repositorio local](./docs/repositorio_local.md)|
 
+|imagenes|
+|--------|
+| ![texto](./images/Captura%20de%20pantalla%202025-07-24%20203603.png)
+|![texto](./images/Captura%20de%20pantalla%202025-07-24%20203618.png)
 
 
 
