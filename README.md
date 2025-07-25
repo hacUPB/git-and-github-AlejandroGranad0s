@@ -8,6 +8,8 @@ En este repositorio encontraras informacion acerca de los conceptos claves para 
 
 # como clonar un proyecto
 para poder clonar un repositorio debes iniciar sesion en tu dispositivo y buscar el link (https) del repositorio que deseas clonar. se usa el comando "git clone (https...)" y el repositorio se baja de manera local.
+para poder ejecutar el proyecto debes tener acceso a la ediccion ya que sin esto cualquiera podria editarlo y al tener tantas copias diferente, genera un error para el codigo.
+
 
 
 
