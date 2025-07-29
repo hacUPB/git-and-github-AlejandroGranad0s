@@ -1,8 +1,35 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Alejandro Granados Suarez 
+Id.:  000410426
 ---
+En este repositorio encontraras informacion acerca de los conceptos claves para poder usar la consola de Git y como conectarse con github.
+
+# como clonar un proyecto
+para poder clonar un repositorio debes iniciar sesion en tu dispositivo y buscar el link (https) del repositorio que deseas clonar. se usa el comando "git clone (https...)" y el repositorio se baja de manera local.
+para poder ejecutar el proyecto debes tener acceso a la ediccion ya que sin esto cualquiera podria editarlo y al tener tantas copias diferente, genera un error para el codigo.
+
+# si necesitan mas informacion del tema pueden mirar
+
+|links |
+|------|
+
+[link uso de consola](./docs/uso_consola.md)
+
+[link repositorio remoto](./docs/respositorio_remoto.md)
+
+[link repositorio local](./docs/repositorio_local.md)|
+
+|imagenes|
+|--------|
+|![texto](./images/Captura%20de%20pantalla%202025-07-24%20203603.png)
+|![texto](./images/Captura%20de%20pantalla%202025-07-24%20203618.png)
+|![texto](./images/Captura%20de%20pantalla%202025-07-24%20204710.png)
+
+# Muchas Gracias
+
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
